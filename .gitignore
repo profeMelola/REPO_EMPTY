@@ -1,0 +1,30 @@
+# Archivos de configuración de VS Code
+.vscode/settings.json
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos compilados de Java
+*.class
+
+# Directorios de salida de compilación (Ant)
+build/
+dist/
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos de configuración de IDEs (por si se abre en IntelliJ, Eclipse, etc.)
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# Documentación o archivos no deseados en el repositorio
+README.md

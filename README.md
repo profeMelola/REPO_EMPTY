@@ -1,3 +1,30 @@
+# Pruebas con readme.md
+
+Aprovecho el readme.md del proyecto java.
+
+He quitado el readme.md del .gitignore
+
+## Encabezado 2
+
+### Encabezado 3
+
+**Ahí va una lista:**
+- uno
+- dos
+    - dos_uno
+    - dos_dos
+- tres
+
+
+**Una imagen:**
+
+![gatito](image.png)
+
+**Un enlace:**
+
+[Aula Virtual del insti](https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/=
+___
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.

@@ -9,5 +9,8 @@ public class App {
         Utilidades.imprimir(persona.toString());
 
         System.out.println("Fecha del sistema: " + LocalDateTime.now());
+
+
+        System.out.println("Añadida clase Profesor en el paquete model");
     }
 }

@@ -1,4 +1,4 @@
-# Pruebas con readme.md
+# Pruebas con readme.md - Sesión 22 abril
 
 Aprovecho el readme.md del proyecto java.
 
